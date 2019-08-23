@@ -8,7 +8,7 @@
 
 export const environment = {
   production: false,
-  backendUrl: 'http://localhost:4488/api',
-  frontendUrl: 'http://localhost:4200/'
+  backendUrl: 'https://backendserviceyash.azurewebsites.net/api',
+  frontendUrl: 'https://frontendyashfma.azurewebsites.net/'
 };
 
